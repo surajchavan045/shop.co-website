@@ -200,7 +200,8 @@ main {
   text-align: center;
   font-size: 4rem;
   font-weight: 500;
-  padding-top: 20px;
+  padding-top: 60px;
+  padding-bottom: 40px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -229,6 +230,11 @@ main {
 
 .new-1 {
   display: none;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
 }
 
 
